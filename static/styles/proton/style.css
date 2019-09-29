@@ -1,7 +1,8 @@
 /* GLOBAL */
 
 body {
-	background: #c4c4c4 url('images/plainblank2.jpg') top left repeat-x;
+	background: #c4c4c4 url('images/plainblank2.jpg') top left no-repeat;
+
 	font-family: Arial, sans-serif;
 	font-size: 0.7em;
 	margin-bottom: 0;
